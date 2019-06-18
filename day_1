@@ -1,0 +1,5 @@
+pow = (\n m.m n)(m 1)
+(\sz.s z)m
+\z.m z
+\z s.m z s
+\s z.m(sz)
