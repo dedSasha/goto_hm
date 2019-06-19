@@ -1,5 +1,4 @@
 import Data.List
-import Data.Numbers.Primes
 l = [1, 2, 3, 4, 5, 6, 0, 0]
 ml = map (\x -> x^2) l
 fl = filter (\x -> if x==0 then True else False)
