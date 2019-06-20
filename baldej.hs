@@ -9,4 +9,4 @@ fucking_cool_l = [x^2 | x <- [1, 3..]]
 super_fucking_cool_l = [(x, y, i) | x <- [1..100],
                                     y <- [1..100],
                                     i <- [1..100],
-                                    x^2 + y^2 == i^2]
+                                    ^2 + y^2 == i^2]
